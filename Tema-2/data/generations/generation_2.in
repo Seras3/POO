@@ -1,0 +1,62 @@
+3 350
+Adam_Adrian-Claudiu Financier
+Feraru_Mihail Programmer
+Neacsu_Adina-Elena Developer_team_manager
+3
+Adam_Adrian-Claudiu 1
+	Financier 2
+		2 Mathematics Algebra 4
+			Math_introduction_test 6.5
+			Math_accumulation_test 0
+			Math_theory_test 9
+			Math_final_evaluation 8.25
+		1 Finance 2
+			Accountancy_evaluation 0
+			Applications_in_negotiation 0
+Feraru_Mihail 1
+	Programmer 5
+		2 Mathematics Algebra 4
+			Math_introduction_test 0
+			Math_accumulation_test 0
+			Math_theory_test 0
+			Math_final_evaluation 0
+		2 Mathematics Geometry 4
+			Math_introduction_test 0
+			Math_accumulation_test 0
+			Math_theory_test 0
+			Math_final_evaluation 0
+		2 Mathematics Analysis 4
+			Math_introduction_test 0
+			Math_accumulation_test 0
+			Math_theory_test 0
+			Math_final_evaluation 0
+		3 Programming OOP C++ 3
+			Syntax_understanding 6.4
+			Mid_project 10
+			Final_exam 0
+		2 Language English 2
+			Speaking 0
+			Writing 0
+Neacsu_Adina-Elena 2
+	Developer_team_manager 2
+		3 Programming OOP C++ 3
+			Syntax_understanding 8
+			Mid_project 10
+			Final_exam 6
+		1 NLP_communication 4
+			NLP_writing 9
+			NLP_speaking 9
+			NLP_verification 10
+			NLP_progress 8
+	Manager 3
+		1 Human_resources 4
+			Soft_skills_evaluation 6
+			Team_leading_test 6
+			Practice_of_public_speaking 7
+			Team_work_&_communication_contest 8
+		1 Finance 2
+			Accountancy_evaluation 9
+			Applications_in_negotiation 10
+		2 Language English 2
+			Speaking 10
+			Writing 8

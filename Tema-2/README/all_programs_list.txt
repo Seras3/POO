@@ -1,0 +1,104 @@
+6 350
+Student-1 Financier
+Student-2 Manager
+Student-3 Programmer
+Student-4 Developer_team_manager
+Student-5 Driver
+Student-6 Truckers_team_manager
+6
+Student-1 1
+        Financier 2
+                2 Mathematics Algebra 4
+                        Math_introduction_test 0
+                        Math_accumulation_test 0
+                        Math_theory_test 0
+                        Math_final_evaluation 0
+                1 Finance 2
+                        Accountancy_evaluation 0
+                        Applications_in_negotiation 0
+Student-2 1
+        Manager 3
+                1 Human_resources 4
+                        Soft_skills_evaluation 0
+                        Team_leading_test 0
+                        Practice_of_public_speaking 0
+                        Team_work_&_communication_contest 0
+                1 Finance 2
+                        Accountancy_evaluation 0
+                        Applications_in_negotiation 0
+                2 Language English 2
+                        Speaking 0
+                        Writing 0
+Student-3 1
+        Programmer 5
+                2 Mathematics Algebra 4
+                        Math_introduction_test 0
+                        Math_accumulation_test 0
+                        Math_theory_test 0
+                        Math_final_evaluation 0
+                2 Mathematics Geometry 4
+                        Math_introduction_test 0
+                        Math_accumulation_test 0
+                        Math_theory_test 0
+                        Math_final_evaluation 0
+                2 Mathematics Analysis 4
+                        Math_introduction_test 0
+                        Math_accumulation_test 0
+                        Math_theory_test 0
+                        Math_final_evaluation 0
+                3 Programming OOP C++ 3
+                        Syntax_understanding 0
+                        Mid_project 0
+                        Final_exam 0
+                2 Language English 2
+                        Speaking 0
+                        Writing 0
+Student-4 2
+        Developer_team_manager 2
+                3 Programming OOP C++ 3
+                        Syntax_understanding 0
+                        Mid_project 0
+                        Final_exam 0
+                1 NLP_communication 2
+                        NLP_writing 0
+                        NLP_speaking 0
+        Manager 3
+                1 Human_resources 4
+                        Soft_skills_evaluation 0
+                        Team_leading_test 0
+                        Practice_of_public_speaking 0
+                        Team_work_&_communication_contest 0
+                1 Finance 2
+                        Accountancy_evaluation 0
+                        Applications_in_negotiation 0
+                2 Language English 2
+                        Speaking 0
+                        Writing 0
+Student-5 1
+        Driver 2
+                1 Driving_legislation 2
+                        Traffic_situations 0
+                        Driving_theory 0
+                2 Practical_car_driving Skoda 2
+                        Parking_skills 0
+                        Traffic_driving 0
+Student-6 2
+        Truckers_team_manager 2
+                2 Language Turkish 2
+                        Speaking 0
+                        Writing 0
+                1 Driving_legislation 2
+                        Traffic_situations 0
+                        Driving_theory 0
+        Manager 3
+                1 Human_resources 4
+                        Soft_skills_evaluation 0
+                        Team_leading_test 0
+                        Practice_of_public_speaking 0
+                        Team_work_&_communication_contest 0
+                1 Finance 2
+                        Accountancy_evaluation 0
+                        Applications_in_negotiation 0
+                2 Language English 2
+                        Speaking 0
+                        Writing 0

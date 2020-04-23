@@ -1,0 +1,101 @@
+5 350
+Adam_Adrian-Claudiu Financier
+Feraru_Mihail Programmer
+Neacsu_Adina-Elena Developer_team_manager
+Georgescu_Lazar Manager
+Buzoianu_Petrache Programmer
+5
+Adam_Adrian-Claudiu 1
+	Financier 2
+		2 Mathematics Algebra 4
+			Math_introduction_test 6.5
+			Math_accumulation_test 4
+			Math_theory_test 9
+			Math_final_evaluation 8.25
+		1 Finance 2
+			Accountancy_evaluation 8
+			Applications_in_negotiation 7
+Feraru_Mihail 1
+	Programmer 5
+		2 Mathematics Algebra 4
+			Math_introduction_test 5
+			Math_accumulation_test 7
+			Math_theory_test 3
+			Math_final_evaluation 2
+		2 Mathematics Geometry 4
+			Math_introduction_test 9
+			Math_accumulation_test 10
+			Math_theory_test 8
+			Math_final_evaluation 6
+		2 Mathematics Analysis 4
+			Math_introduction_test 7
+			Math_accumulation_test 8
+			Math_theory_test 10
+			Math_final_evaluation 6
+		3 Programming OOP C++ 3
+			Syntax_understanding 6.4
+			Mid_project 10
+			Final_exam 9
+		2 Language English 2
+			Speaking 10
+			Writing 8
+Neacsu_Adina-Elena 2
+	Developer_team_manager 2
+		3 Programming OOP C++ 3
+			Syntax_understanding 9
+			Mid_project 10
+			Final_exam 10
+		1 NLP_communication 4
+			NLP_writing 4
+			NLP_speaking 7
+			NLP_verification 9
+			NLP_progress 7
+	Manager 3
+		1 Human_resources 4
+			Soft_skills_evaluation 9
+			Team_leading_test 5
+			Practice_of_public_speaking 7
+			Team_work_&_communication_contest 9
+		1 Finance 2
+			Accountancy_evaluation 10
+			Applications_in_negotiation 5
+		2 Language English 2
+			Speaking 8
+			Writing 10
+Georgescu_Lazar 1
+	Manager 3
+		1 Human_resources 4
+			Soft_skills_evaluation 8
+			Team_leading_test 6
+			Practice_of_public_speaking 8
+			Team_work_&_communication_contest 8
+		1 Finance 2
+			Accountancy_evaluation 8
+			Applications_in_negotiation 7
+		2 Language English 2
+			Speaking 8
+			Writing 7
+Buzoianu_Petrache 1
+	Programmer 5
+		2 Mathematics Algebra 4
+			Math_introduction_test 10
+			Math_accumulation_test 5
+			Math_theory_test 8
+			Math_final_evaluation 9
+		2 Mathematics Geometry 4
+			Math_introduction_test 7
+			Math_accumulation_test 2
+			Math_theory_test 8
+			Math_final_evaluation 9
+		2 Mathematics Analysis 4
+			Math_introduction_test 5
+			Math_accumulation_test 6
+			Math_theory_test 7
+			Math_final_evaluation 8
+		3 Programming OOP C++ 3
+			Syntax_understanding 10
+			Mid_project 9
+			Final_exam 9
+		2 Language English 2
+			Speaking 9
+			Writing 9
