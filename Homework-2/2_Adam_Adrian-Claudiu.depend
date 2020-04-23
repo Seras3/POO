@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1586268834 source:c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\main.cpp
+	<iostream>
+	"include/gui.h"
+
+1587650245 c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\include\student.h
+	<string>
+	<iostream>
+	"training_program.h"
+
+1587650297 source:c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\src\student.cpp
+	"../include/student.h"
+
+1585998516 source:c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\src\competence.cpp
+
+1587649755 source:c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\src\course.cpp
+	"../include/course.h"
+
+1585998541 source:c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\src\test.cpp
+
+1587651116 source:c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\src\training_program.cpp
+	"../include/training_program.h"
+
+1587654045 c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\include\generation.h
+	<string>
+	<vector>
+	"student.h"
+	"display.h"
+
+1587654031 source:c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\src\generation.cpp
+	"../include/generation.h"
+	<fstream>
+	<iostream>
+
+1587654531 c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\include\gui.h
+	<iostream>
+	<fstream>
+	<string>
+	"generation.h"
+	"display.h"
+
+1587655276 source:c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\src\gui.cpp
+	"../include/gui.h"
+
+1587650413 c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\include\training_program.h
+	<string>
+	<vector>
+	<algorithm>
+	"course.h"
+
+1587581340 c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\include\display.h
+	<iostream>
+	<string>
+
+1587655888 source:c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\src\display.cpp
+	"../include/display.h"
+
+1587649726 c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\include\course.h
+	<string>
+	<iostream>
+	"display.h"
+
+1586200528 c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\include\program_types.h
+	<string>
+	"course.h"
+
+1586200371 source:c:\users\seras\desktop\fac\s2\poo\laborator\tema_2\2_adam_adrian-claudiu\src\program_types.cpp
+	"../include/program_types.h"
+
